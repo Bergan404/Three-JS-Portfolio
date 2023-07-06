@@ -106,10 +106,10 @@ const technologies = [
     icon: mongodb,
     url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
   },
-  // {
-  //   name: "Flask",
-  //   url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg",
-  // },
+  {
+    name: "Flask",
+    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg",
+  },
   {
     name: "Three JS",
     icon: threejs,
@@ -120,35 +120,35 @@ const technologies = [
     icon: git,
     url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
   },
-  // {
-  //   name: "Sequelize",
-  //   url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
-  // },
-  // {
-  //   name: "sqlalchemy",
-  //   url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg",
-  // },
+  {
+    name: "Sequelize",
+    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+  },
+  {
+    name: "sqlalchemy",
+    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg",
+  },
   {
     name: "docker",
     icon: docker,
     url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
   },
-  // {
-  //   name: "mysql",
-  //   url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg",
-  // },
-  // {
-  //   name: "AWS",
-  //   url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
-  // },
-  // {
-  //   name: "WordPress",
-  //   url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg",
-  // },
-  // {
-  //   name: "php",
-  //   url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
-  // },
+  {
+    name: "mysql",
+    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg",
+  },
+  {
+    name: "AWS",
+    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+  },
+  {
+    name: "WordPress",
+    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg",
+  },
+  {
+    name: "php",
+    url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+  },
 ];
 
 const experiences = [
