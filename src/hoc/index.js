@@ -1,3 +1,4 @@
 import SectionWrapper from "./SectionWrapper";
+import BigSectionWrapper from "./BigSectionWrapper"
 
-export { SectionWrapper };
+export { SectionWrapper, BigSectionWrapper };
