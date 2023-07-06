@@ -3,4 +3,7 @@ import BallCanvas from "./Ball";
 import ComputersCanvas from "./Computers";
 import StarsCanvas from "./Stars";
 
-export { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas };
+import ReactlogoCanvas from "./Reactlogo";
+import HtmllogoCanvas from "./Htmllogo";
+
+export { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas, ReactlogoCanvas, HtmllogoCanvas };

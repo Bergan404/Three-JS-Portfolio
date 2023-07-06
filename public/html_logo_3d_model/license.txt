@@ -1,0 +1,11 @@
+Model Information:
+* title:	HTML logo 3d model
+* source:	https://sketchfab.com/3d-models/html-logo-3d-model-ab8b32cab3364027ab00a033a0b2ff38
+* author:	Erik Egnatosyan (https://sketchfab.com/sans.egnatosyan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HTML logo 3d model" (https://sketchfab.com/3d-models/html-logo-3d-model-ab8b32cab3364027ab00a033a0b2ff38) by Erik Egnatosyan (https://sketchfab.com/sans.egnatosyan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
