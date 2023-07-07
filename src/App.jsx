@@ -10,7 +10,6 @@ const App = () => {
           <Navbar />
           <div className='relative z-0'>
             <Home />
-            {/* <Contact /> */}
             <StarsCanvas />
           </div>
         </div>
@@ -20,10 +19,14 @@ const App = () => {
         <Tech />
         <Works />
         <Feedbacks />
-        {/* <div className='relative z-0'>
-          <Contact />
-          <StarsCanvas />
-        </div> */}
+        <div className='relative z-0 bg-primary'>
+          <div className='bg-contact-pattern bg-cover bg-no-repeat bg-center'>
+            <div className='relative z-0'>
+              <Contact />
+              <StarsCanvas />
+            </div>
+          </div>
+        </div>
       </div>
     </BrowserRouter>
   );
