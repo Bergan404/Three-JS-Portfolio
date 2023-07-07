@@ -246,7 +246,9 @@
   padding: 1.5em;
 }
 
-.circle-middle {
+.circle-middle,
+.circle-middle-blue,
+.circle-middle-red {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -263,6 +265,35 @@
 .circle-middle {
   box-shadow: 0 0 150px 55px #8d6eff;
 }
+
+.circle-middle-blue {
+  animation: blueBreathing 4s infinite;
+  animation-direction: alternate;
+}
+
+.circle-middle-red {
+  animation: redBreathing 4s infinite;
+  animation-direction: alternate;
+}
+
+@keyframes blueBreathing {
+  0% {
+    box-shadow: 0 0 5px #3e74ba;
+  }
+  100% {
+    box-shadow: 0 0 150px 55px #3e74ba;
+  }
+}
+
+@keyframes redBreathing {
+  0% {
+    box-shadow: 0 0 5px #f16244;
+  }
+  100% {
+    box-shadow: 0 0 150px 55px #f16244;
+  }
+}
+
 
 .circle-one {
   margin-left: 115px;

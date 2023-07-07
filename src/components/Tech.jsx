@@ -2,7 +2,7 @@ import React from "react";
 
 import { SectionWrapper, BigSectionWrapper } from "../hoc";
 import { technologies, frontEnd, backEnd } from "../constants";
-import { logo } from "../assets";
+import { bluePlanet, logo, redPlanet } from "../assets";
 
 
 const cssRules = [];
@@ -44,8 +44,8 @@ const Tech = () => {
               </div>
             ))}
           </div>
-          <div className="circle-middle">
-            <img src={logo} alt='logo' />
+          <div className="circle-middle-blue">
+            <img src={bluePlanet} alt='logo' />
           </div>
         </div>
         <div className="slidercircle">
@@ -59,8 +59,8 @@ const Tech = () => {
               </div>
             ))}
           </div>
-          <div className="circle-middle">
-            <img src={logo} alt='logo' />
+          <div className="circle-middle-red">
+            <img src={redPlanet} alt='logo' />
           </div>
         </div>
       </div>
