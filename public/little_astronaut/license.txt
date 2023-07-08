@@ -1,0 +1,11 @@
+Model Information:
+* title:	Little Astronaut
+* source:	https://sketchfab.com/3d-models/little-astronaut-5bb793a440164595ac4cb605822b2d88
+* author:	Rude Randal (https://sketchfab.com/Rude_Randal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Little Astronaut" (https://sketchfab.com/3d-models/little-astronaut-5bb793a440164595ac4cb605822b2d88) by Rude Randal (https://sketchfab.com/Rude_Randal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

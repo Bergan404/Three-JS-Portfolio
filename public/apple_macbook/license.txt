@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple Macbook Air 15 (Space Gray) 2023
+* source:	https://sketchfab.com/3d-models/apple-macbook-air-15-space-gray-2023-e8d82e341c794141a2561c2c9d01d79e
+* author:	akshatmittal (https://sketchfab.com/akshatmittal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple Macbook Air 15 (Space Gray) 2023" (https://sketchfab.com/3d-models/apple-macbook-air-15-space-gray-2023-e8d82e341c794141a2561c2c9d01d79e) by akshatmittal (https://sketchfab.com/akshatmittal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
