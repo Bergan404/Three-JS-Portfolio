@@ -8,6 +8,7 @@ import Experience from "./Experience";
 import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
+import Laptop from "./FullComputer"
 import CanvasLoader from "./Loader";
 
 
@@ -21,6 +22,7 @@ export {
   Works,
   Feedbacks,
   Contact,
+  Laptop,
   CanvasLoader,
   EarthCanvas,
   BallCanvas,

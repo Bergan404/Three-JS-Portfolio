@@ -536,3 +536,8 @@
 .stopanima {
   animation-play-state: paused !important;
 }
+
+.laptop iframe {
+  width: 760px;
+  height: 490px;
+}
