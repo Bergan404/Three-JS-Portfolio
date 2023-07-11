@@ -4,6 +4,7 @@ import redPlanet from "./redPlanet.svg"
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
+import fullStack from "./fullStack.png"
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
@@ -40,6 +41,7 @@ export {
   backend,
   creator,
   mobile,
+  fullStack,
   web,
   github,
   menu,
