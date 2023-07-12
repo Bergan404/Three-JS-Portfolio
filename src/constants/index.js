@@ -25,6 +25,7 @@ import {
   tripguide,
   threejs,
   fullStack,
+  frontend,
 } from "../assets";
 
 export const navLinks = [
@@ -44,8 +45,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
-    icon: web,
+    title: "Frontend Developer",
+    icon: frontend,
   },
   {
     title: "Full-Stack Developer",
