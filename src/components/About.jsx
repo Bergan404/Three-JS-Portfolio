@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am an accomplished software developer with extensive experience in 20+ languages with specialized expertise in popular frameworks such as React and Node.js. With a swift ability to adapt and learn, I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that effectively address real-world challenges. My exceptional track record includes independently building over 180 high-quality websites for top-tier clients, showcasing my ability to consistently deliver outstanding results. By seizing the opportunities presented by the rapidly expanding industry, I am dedicated to building collective growth and success.
+        I am an accomplished software developer with extensive experience in 20+ languages with specialized expertise in popular frameworks such as React and Node.js. With a swift ability to adapt and learn, I collaborate closely with clients to create efficient, scalable, and user-friendly solutions that effectively address real-world challenges. My exceptional track record includes independently building over 180 high-quality websites for top-tier clients, showcasing my ability to consistently deliver outstanding results. By seizing the opportunities presented by the rapidly expanding industry, I am dedicated to building, collective growth, and success.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap justify-center gap-10'>

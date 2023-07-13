@@ -23,9 +23,23 @@ import {
   carrent,
   jobit,
   tripguide,
+  bhgreCloud,
   threejs,
   fullStack,
   frontend,
+  htmllogo,
+  javascriptlogo,
+  sasslogo,
+  goodGames,
+  puglogo,
+  expresslogo,
+  csslogo,
+  bavarians,
+  reactlogo,
+  reduxlogo,
+  pythonlogo,
+  flasklogo,
+  sqlalchemylogo,
 } from "../assets";
 
 export const navLinks = [
@@ -300,67 +314,96 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "BHGRE Cloud",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A comprehensive Database of different booklets regarding all of the companies real estate agents.",
     tags: [
       {
-        name: "react",
+        name: "html",
+        icon: htmllogo,
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "javascript",
+        icon: javascriptlogo,
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "SCSS",
+        icon: sasslogo,
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: bhgreCloud,
+    source_code_link: "https://github.com/Bergan404/Better-homes-and-garden-magazine-w-hub",
   },
   {
-    name: "Job IT",
+    name: "Good Games",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A Web Application that allows users to learn more about how people feel about a certain game. They are given the opprotunity to tell others how they feel about a certain game as well.",
     tags: [
       {
-        name: "react",
+        name: "pug",
+        icon: puglogo,
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Expressjs",
+        icon: expresslogo,
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "HTML",
+        icon: htmllogo,
+        color: "pink-text-gradient",
+      },
+      {
+        name: "CSS",
+        icon: csslogo,
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: goodGames,
+    source_code_link: "https://github.com/cubOlson/GoodGames",
   },
   {
-    name: "Trip Guide",
+    name: "Bavarians R Us",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Bavarians'R'Us is a site that is built with Flask, React, and Redux and is built for the BMW enthusiast, it givers users the chance to collaborate and post items for other users to take a look at.",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
+        icon: reactlogo,
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Redux",
+        icon: reduxlogo,
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Javascript",
+        icon: javascriptlogo,
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Python",
+        icon: pythonlogo,
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Flask",
+        icon: flasklogo,
+        color: "pink-text-gradient",
+      },
+      {
+        name: "SQL Alchemy",
+        icon: sqlalchemylogo,
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: bavarians,
+    source_code_link: "https://github.com/Bergan404/Bavarians-R-Us",
   },
 ];
 

@@ -17,7 +17,7 @@ const App = () => {
         <Works />
         <Tech />
         {/* <Experience /> */}
-        <Feedbacks />
+        {/* <Feedbacks /> */}
         <div className='relative z-0 bg-primary'>
           <div className='bg-contact-pattern bg-cover bg-no-repeat bg-center'>
             <div className='relative z-0'>

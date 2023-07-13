@@ -34,6 +34,21 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import bhgreCloud from "./bhgreCloud.png";
+import goodGames from "./GoodGames.png";
+import bavarians from "./Bavarians.png";
+
+import htmllogo from "./html.png";
+import javascriptlogo from "./javascript.png";
+import sasslogo from "./sass.png";
+import puglogo from "./pug.png";
+import csslogo from "./css.png";
+import expresslogo from "./express.png";
+import reactlogo from "./react.png";
+import reduxlogo from "./redux.png";
+import pythonlogo from "./python.png";
+import flasklogo from "./flask.png";
+import sqlalchemylogo from "./sqla.png";
 
 export {
   logo,
@@ -69,4 +84,18 @@ export {
   carrent,
   jobit,
   tripguide,
+  bhgreCloud,
+  goodGames,
+  bavarians,
+  htmllogo,
+  javascriptlogo,
+  sasslogo,
+  puglogo,
+  csslogo,
+  expresslogo,
+  reactlogo,
+  reduxlogo,
+  pythonlogo,
+  flasklogo,
+  sqlalchemylogo,
 };
